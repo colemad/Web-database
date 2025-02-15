@@ -1,0 +1,47 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "§l§cBy:Cole",
+        "name": "config-in-file-config-BDS-supabase",
+        "uuid": "01950ad0-9864-77f8-9e40-82bf84c898d4",
+        "version": [1, 0, 0]
+    },
+    "modules": [
+        {
+            "description": "§l§cBy:Cole",
+            "type": "data",
+            "uuid": "01950ad0-b89f-72de-b442-806cf6967b53",
+            "version": [1, 0, 0]
+        },
+        {
+            "type": "script",
+            "landuage": "javascript",
+            "uuid": "01950ad0-cd17-755f-8eee-b41c4b97d851",
+            "entry": "scripts/main.js",
+            "version": [1, 0, 0]
+        }
+    ],
+    "metadata": {
+      "authors": ["Aristotel", "Cole"],
+      "license": ["MIT", "YOU MUST CREDIT THE AUTHOR OF THIS CODE IN YOUR PROJECTS OR MODIFICATIONS OF THIS CODE"],
+      "url": "https://github.com/colemad/Web-db"
+    },
+    "dependencies": [
+      {
+        "module_name": "@minecraft/server",
+        "version": "1.1.0"
+      },
+      {
+        "module_name": "@minecraft/server-net",
+        "version": "1.0.0-beta"
+      },
+      {
+        "module_name": "@minecraft/server-admin",
+        "version": "1.0.0-beta"
+      },
+      {
+        "module_name": "@minecraft/common",
+        "version": "1.2.0"
+      }
+   ]
+}
