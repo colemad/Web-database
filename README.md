@@ -25,7 +25,7 @@ I am very glad if you contribute to the development of the project.
 
 This project is licensed under the MIT License.
 
-Please do not delete comments with meta author information
+Please don't delete comments with meta author information
 
 # ✉️Contact
 
