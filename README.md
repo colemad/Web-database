@@ -21,7 +21,7 @@ If you have any questions, please write to me
 
 I am very glad if you contribute to the development of the project.
 
-# 📜 License
+# 📜License
 
 This project is licensed under the MIT License.
 
@@ -31,6 +31,6 @@ Please do not delete comments with meta author information
 
  Email: colecompany96@gmail.com, colemashets887@gmail.com
 
- Telegram: @AristotelDeco, @ColeMad
+ Telegram: t.me/AristotelDeco, t.me/ColeMad
 
- GitHub: @Colemad
+ GitHub: https://github.com/colemad
