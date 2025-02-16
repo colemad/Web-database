@@ -29,8 +29,8 @@ Please do not delete comments with meta author information
 
 # ✉️Contact
 
- Email: colecompany96@gmail.com, colemashets887@gmail.com
+ Email: <colecompany96@gmail.com>, <colemashets887@gmail.com>
 
- Telegram: t.me/AristotelDeco, t.me/ColeMad
+ Telegram: [Aristotel](t.me/AristotelDeco), [Cole](t.me/ColeMad)
 
- GitHub: https://github.com/colemad
+ GitHub: [ColeMad](https://github.com/colemad)
