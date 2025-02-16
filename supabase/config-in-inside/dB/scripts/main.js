@@ -1,5 +1,5 @@
 import { system } from '@minecraft/server'
-import Database_web from "./dB.js"
+import { Database_web } from "./dB.js"
 
 let db = new Database_web("log_table")
 system.runTimeout(async () => {

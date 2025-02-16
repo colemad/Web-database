@@ -22,7 +22,7 @@
         }
     ],
     "metadata": {
-      "authors": "Aristotel, Cole",
+      "authors": ["Aristotel", "Cole"],
       "license": "MIT — YOU MUST CREDIT THE AUTHOR OF THIS CODE IN YOUR PROJECTS OR MODIFICATIONS OF THIS CODE",
       "url": "https://github.com/colemad/Web-db"
     },
