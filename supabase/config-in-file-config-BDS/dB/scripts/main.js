@@ -1,6 +1,7 @@
 import { system } from '@minecraft/server'
 import Database_web from "./dB.js"
 
+//this is test message
 let db = new Database_web("log_table")
 system.runTimeout(async () => {
   await db.set({"id": "telegram-creater", "data":[{"test": "telegram: @AristotelDeco"}]})
