@@ -4,7 +4,7 @@
 > Web database for use in BDS written in gametest script api
 
 <p align="center">
-  <img src="https://i.imgur.com/OxWyyg5.png" alt="Minecraft-dB">
+  <img src="https://i.imgur.com/OxWyyg5.png" style="width:160px;height:160px;" alt="Minecraft-dB">
 </p>  
 
 # ⚙️Features
