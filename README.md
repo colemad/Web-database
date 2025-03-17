@@ -7,6 +7,10 @@
   <img src="https://i.imgur.com/OxWyyg5.png" style="width:160px;height:160px;" alt="Minecraft-dB">
 </p>  
 
+# 📋Instruction
+
+[supabase](INSTRUCTION.md)
+
 # ⚙️Features
 
 The code has a minimum of RESTful API protocols for working with the database supporting HTTP
@@ -17,7 +21,7 @@ You can download the file you need, they differ only in the way the config file 
 
 If you have any questions, please write to me
 
-# 🛠️Contribut
+# 🛠️Contribute
 
 I am very glad if you contribute to the development of the project.
 
