@@ -31,7 +31,7 @@ async function db_req(uri, method, body = null) {
   }
 }
 
-export class Database_web {
+export default class Database_web {
   constructor(table) {
     this.table = table
   }
