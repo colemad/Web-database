@@ -1,1 +1,1 @@
-//main file in the supabase/scripts copy and paste
+//main file in the [supabase/scripts]https://github.com/colemad/Web-database/tree/main/supabase/scripts/main.js copy and paste
