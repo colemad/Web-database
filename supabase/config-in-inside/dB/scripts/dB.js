@@ -1,1 +1,1 @@
-//db file in the [supabase/scripts]https://github.com/colemad/Web-database/tree/main/supabase/scripts/db.js copy and paste 
+//db file in the [supabase/scripts]https://github.com/colemad/Web-database/tree/main/supabase/scripts/dB.js copy and paste 
