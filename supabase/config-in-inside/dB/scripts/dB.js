@@ -1,1 +1,1 @@
-//db file in the superbase/scripts copy and paste 
+//db file in the supabase/scripts copy and paste 
