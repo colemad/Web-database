@@ -10,11 +10,11 @@
 
 5. Копируем **Project URL** (**https://xxxxxxxxxxx.supabase.co/rest/v1**) и **API ключ**
 
-6. Вставляем их в **config.js**
+6. Вставляем их в **config**
 
 7. Заходим в **Table editor** и создаём новую **таблицу** с любым **названием** и **описанием**
 
-8. В колоннах: оставляем **id**, и вместо **created_at** добавляем свою колонну с типом **JSONb** (**Binary JSON data**, **decompresed**)
+8. В колоннах: оставляем **id** но меняем тип на text, и вместо **created_at** добавляем свою колонну например **data** с типом **JSONb** (**Binary JSON data**, **decompresed**)
 
 9. Сохраняем таблицу
 
@@ -24,7 +24,7 @@
 
 12. В **Policy command for clause** выбираем **ALL**
 
-13. В **using()** и **with check()** пишем **true**
+13. В **using()** пишем **true** убираем галочку с **Use check expression**
 
 14. Сохраняем
 
