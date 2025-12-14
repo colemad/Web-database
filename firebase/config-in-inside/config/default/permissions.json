@@ -1,0 +1,13 @@
+{
+  "allowed_modules": [
+    "@minecraft/common",
+    "@minecraft/debug-utilities",
+    "@minecraft/diagnostics",
+    "@minecraft/server-net",
+    "@minecraft/server-gametest",
+    "@minecraft/server",
+    "@minecraft/server-ui",
+    "@minecraft/server-admin",
+    "@minecraft/server-editor"
+  ]
+}
